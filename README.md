@@ -20,3 +20,4 @@ Detection Lab Integrating Elastic as a SIEM and Shuffle as a SOAR
 | Elasticsearch | 8.6 | Data Storage and Search |
 | Kibana | 8.6 | Dashboard and Monitoring |
 | Proxmox | 8.7 | Hypervisor |
+| Elastic Agent | 9.6 | EDR and Agent Monitoring | 
